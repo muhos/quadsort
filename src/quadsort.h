@@ -1,6 +1,5 @@
 /*
 	Copyright (C) 2014-2021 Igor van den Hoven ivdhoven@gmail.com
-	Copyright (C) 2022 Muhammad Osama Mahmoud
 */
 
 /*
